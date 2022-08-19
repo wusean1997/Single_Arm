@@ -1,2 +1,2 @@
-# Single_Arm
+# Simulator Scripts
 Create an animation simulator via Unity.
